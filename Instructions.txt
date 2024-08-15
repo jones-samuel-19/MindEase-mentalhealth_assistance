@@ -1,0 +1,27 @@
+Instruction to run codes for MindEase
+
+• This zip file contains all the codes used in this project
+• The LLM model is trained in google colab pro plus since it need’s GPU to run and it is present in the 
+LLm_model(Llama_3B).ipynb file
+• Just follow the procedure’s given in the .ipynb file to run LLM code and just run it in the top-down manner
+• Once the model is saved after training , Example to check text generation code’s is also given in that file at the end
+• After the needed file for the model to run are saved in the specified folder download them and place it in the working directory
+• The codes for chat -bot interface are created in visual studio code and are given as app.py, chat.html, requirements.txt and all the 3 files has to be imported into vscode.
+• After uploading open Terminal and give “python app.py “ command to run the chatbot interface.
+• Once the execution start you will get an http or web address to host the chatbot locally.
+• You can find all the codes in this GitHub repo - https://github.com/jones-samuel-19/MindEase-mentalhealth_assistance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
